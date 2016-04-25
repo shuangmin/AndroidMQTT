@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/pre-dexed/debug/android-support-v4_eee7ea746ae0f027b396087150eaa57b846d8d1e.jar" />
+    </item>
+    <item
+        jar="/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/libs/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e1c9a81aadf25b884c779298a90750d0ab8013a5">
+        <dex dex="/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_49bc82571ac9c333d0843f552be3ead931cdba6f.jar" />
+    </item>
+
+</items>

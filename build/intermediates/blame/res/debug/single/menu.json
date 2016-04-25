@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_connections.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_connections.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_subscribe_disconnected.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_subscribe_disconnected.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_connections_logging.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_connections_logging.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_connection_details_disconnected.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_connection_details_disconnected.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_new_connection.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_new_connection.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_advanced.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_advanced.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_publish_disconnected.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_publish_disconnected.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_subscribe.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_subscribe.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_last_will.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_last_will.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_connection_details.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_connection_details.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_client_connections_contextual.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_client_connections_contextual.xml"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/menu/activity_publish.xml",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/menu/activity_publish.xml"
+    }
+]

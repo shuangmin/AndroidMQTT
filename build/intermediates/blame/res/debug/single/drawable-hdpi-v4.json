@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow.png",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/drawable-hdpi/arrow.png"
+    },
+    {
+        "merged": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/rander/android/srccode/git/paho.mqtt.java/org.eclipse.paho.android.service/org.eclipse.paho.android.service.sample/res/drawable-hdpi/ic_launcher.png"
+    }
+]

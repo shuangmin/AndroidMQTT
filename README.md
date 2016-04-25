@@ -1,2 +1,0 @@
-# AndroidMQTT
-Android MQTT Demo
